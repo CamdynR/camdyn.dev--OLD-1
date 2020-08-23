@@ -1,0 +1,18 @@
+/* Main Stylsheet */
+
+body {
+  align-items: center;
+  background-color: #e9f9ff;
+  display: grid;
+  justify-items: center;
+  height: 95vh;
+  width: 100vw;
+}
+
+main {
+  background-color: white;
+  border-radius: 20px;
+  height: 85vh;
+  filter: drop-shadow(0px 0px 10px rgb(0, 0, 0, 0.08));
+  width: 85vw;
+}
